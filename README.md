@@ -21,5 +21,10 @@ npm start
 Android:
 
 ```bash
-npm run android
+git clone https://github.com/anaelechiobioma247-ui/Obioma-pink-edition-quote.git
+cd Obioma-pink-edition-quote
+npm install
+npx eas-cli login
+npx eas-cli build:configure
+npx eas-cli build --platform android --profile preview
 ```
