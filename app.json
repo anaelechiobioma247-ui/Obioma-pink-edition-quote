@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Obioma Pink Edition",
+    "slug": "obioma-pink-edition",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#fff1f4" },
+    "android": { "package": "com.obioma.pinkedition" },
+    "web": { "bundler": "metro" }
+  }
+}
